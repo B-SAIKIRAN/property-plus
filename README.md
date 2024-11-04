@@ -44,7 +44,7 @@ Technologies Used
    ![Login & Signup](screenshots/login_signup.png)
 
 3. **Login Page**  
-   ![Login Page](screenshots/login.jpg)
+   ![Login Page](screenshots/login.png)
 
 4. **Registration Page**  
    ![Registration Page](screenshots/registration.png)
@@ -53,7 +53,7 @@ Technologies Used
    ![Renter Page](screenshots/renterpage.png)
 
 6. **Tenant Page**  
-   ![Tenant Page](screenshots/tenant_page.jpg)
+   ![Tenant Page](screenshots/your-pro.png)
 
 
 7. **Chat**  
