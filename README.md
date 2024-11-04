@@ -25,25 +25,6 @@ Features
 	9.	Register Rent Payments: Allows owners to log rent payments made by tenants.
 	10.	State Management: Efficiently managed using Redux for consistent and scalable state handling.
 
-Screenshots
-
-	1.	Landing Page
-
-	2.	Login & Signup
-
-	3.	Login Page
-
-	4.	Registration Page
-
-	5.	Renter Page
-
-	6.	Tenant Page
-
-	7.	Post Property Page
-
-	8.	Chat
-
-	9.	Saved Properties
 
 Technologies Used
 
@@ -54,6 +35,35 @@ Technologies Used
 	•	Authentication: JWT (JSON Web Token)
 	•	Deployment: Render.com
 
+## Screenshots
+
+1. **Landing Page**  
+   ![Landing Page](screenshots/landing_page.jpg)
+
+2. **Login & Signup**  
+   ![Login & Signup](screenshots/login_signup.jpg)
+
+3. **Login Page**  
+   ![Login Page](screenshots/login_page.jpg)
+
+4. **Registration Page**  
+   ![Registration Page](screenshots/registration_page.jpg)
+
+5. **Renter Page**  
+   ![Renter Page](screenshots/renter_page.jpg)
+
+6. **Tenant Page**  
+   ![Tenant Page](screenshots/tenant_page.jpg)
+
+7. **Post Property Page**  
+   ![Post Property Page](screenshots/post_property_page.jpg)
+
+8. **Chat**  
+   ![Chat](screenshots/chat.jpg)
+
+9. **Saved Properties**  
+   ![Saved Properties](screenshots/saved_properties.jpg)
+   
 Installation and Setup
 
 	1.	Clone the repository:
