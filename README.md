@@ -3,7 +3,7 @@ Here’s the updated README file including Redux:
 
 Property Plus - Real Estate Rental and Tenant Management System
 
-Live URL: Property Plus
+Live URL: [Property Plus](https://property-plus.onrender.com/#/)
 
 Overview
 
