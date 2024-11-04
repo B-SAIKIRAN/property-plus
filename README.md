@@ -38,31 +38,29 @@ Technologies Used
 ## Screenshots
 
 1. **Landing Page**  
-   ![Landing Page](screenshots/landing_page.jpg)
+   ![Landing Page](screenshots/landing_page.png)
 
 2. **Login & Signup**  
-   ![Login & Signup](screenshots/login_signup.jpg)
+   ![Login & Signup](screenshots/login_signup.png)
 
 3. **Login Page**  
-   ![Login Page](screenshots/login_page.jpg)
+   ![Login Page](screenshots/login.jpg)
 
 4. **Registration Page**  
-   ![Registration Page](screenshots/registration_page.jpg)
+   ![Registration Page](screenshots/registration.png)
 
 5. **Renter Page**  
-   ![Renter Page](screenshots/renter_page.jpg)
+   ![Renter Page](screenshots/renterpage.png)
 
 6. **Tenant Page**  
    ![Tenant Page](screenshots/tenant_page.jpg)
 
-7. **Post Property Page**  
-   ![Post Property Page](screenshots/post_property_page.jpg)
 
-8. **Chat**  
-   ![Chat](screenshots/chat.jpg)
+7. **Chat**  
+   ![Chat](screenshots/chat.png)
 
-9. **Saved Properties**  
-   ![Saved Properties](screenshots/saved_properties.jpg)
+8. **Saved Properties**  
+   ![Saved Properties](screenshots/saved_prop.png)
    
 Installation and Setup
 
